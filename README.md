@@ -1,4 +1,4 @@
-# 🌍 Nations Hub &middot; [![Author Deepak L P](https://img.shields.io/badge/Author-Deepak Kumar-%3C%3E)](https://github.com/Deepakcode607)
+# 🌍 Nations Hub &middot;
 
 Welcome to Nations Hub! 🎉 Explore information about every country on Earth with our rich interactive experience. Discover stats, flags, and challenge yourself with geography games! 🌎✨
 
