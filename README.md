@@ -56,7 +56,7 @@ Follow these steps to set up Nations Hub locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Deepakcode607/Nations-Hub.git
+git clone https://github.com/Deepakcode607/Nation-Hub-Info-Center.git
 
 # Navigate to project directory
 cd Nations-Hub
@@ -70,9 +70,7 @@ npm start
 
 The application should now be running on `http://localhost:3000`.
 
-## 🌐 Live Demo
 
-Check out the live demo of [Nations Hub](https://nations-hub.vercel.app/) to explore the features.
 
 ## 📸 Screenshots
 
