@@ -59,7 +59,7 @@ Follow these steps to set up Nations Hub locally:
 git clone https://github.com/Deepakcode607/Nation-Hub-Info-Center.git
 
 # Navigate to project directory
-cd Nations-Hub
+cd Nation-Hub-Info-Center
 
 # Install dependencies
 npm install
